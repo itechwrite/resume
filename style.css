@@ -5,7 +5,7 @@ html, body {
     gap: 1rem;
     align-items: center;
     font-size: 14px;
-    font-family: 'Lato';
+    font-family: 'Trebuchet MS', 'Ubuntu';
     font-weight: 400 !important;
     background: #2a2a2e;
 }

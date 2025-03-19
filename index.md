@@ -2,78 +2,70 @@
 layout: base
 ---
 
-# Yong Sheng <u>Tan</u>
-1. <i class="fa-solid fa-envelope"></i> &#105;&#8203;&#64;&#8203;&#121;&#111;&#110;&#103;&#8203;&#46;&#8203;&#115;&#112;&#97;&#99;&#101;
-2. <i class="fa-solid fa-mobile-screen"></i> &#57;&#55;&#53;&#51;&nbsp;&middot;&nbsp;&#54;&#54;&#52;&#52;
-3. <i class="fa-brands fa-linkedin"></i> [**/**tanys](//linkedin.com/in/tanys)
+# **Liv** Wong
+1. <i class="fa-solid fa-envelope"></i> liv.wongg@gmail.com
+2. <i class="fa-solid fa-mobile-screen"></i> +65 86565822
+3. <i class="fa-brands fa-linkedin"></i> [<u>livw</u>](https://www.linkedin.com/in/livw/)
+4. <i class="fas fa-briefcase"></i> [<u>Portfolio</u>](https://itsliv.notion.site/Liv-s-Writing-Portfolio-3dfc78d4983d41a1acb23d8950b099da?pvs=4)
 
-Financial technology professional with 11+ years of experience across software development,
-business analysis and production support looking to further career in a technical or product/platform
-development role. Adept in managing software delivery lifecycles with a keen understanding of
-enterprise systems and cloud architecture.
+
+
+Technical communicator and content strategist with **2.5 years of experience in leading product and developer documentation in technology and finance.** Proficient in information architecture, content operations, and product testing. Detail-oriented English Language undergraduate adept in writing, software fundamentals, and cross-functional collaboration.
 
 # Experience
-1. Orkes
-2. Jan 2024 - Present
+1. Technical Writer at Orkes
+2. Mar 2024 - Present
 
-### Senior Solutions Architect
-* Launched APAC office tasked with establishing regional presence for sales, consulting, developer relations
-* Led pre-sales engineering, technical account management and solutions architecture for non-US customers
-* Responsible for technical customer success in converting platform investment into realised business value
-* Organised developer meet-up events and presented at key business and technical conferences regionally
+### Orkes is a technology start-up for orchestration tools.
+* Initiated and led content audit for documentation and blog verticals, and implemented key recommendations, increasing customer satisfaction and doubling engagement metrics
+* Strategised documentation structure and updated product and developer guides based on product tests and SME interviews, improving content accuracy, clarity, and organization
+* Leveraged latest industry standards to update and author API documentation and code samples
+* Optimised content operations by creating reusable templates, content runbooks, and a style guide, reducing turnaround time, enhancing brand consistency, and elevating in-house best practices
+* Provided regular performance insights and recommendations based on GA4 and SemRush analytics
+* Strategically managed and created technical and non-technical blogs and social media content based on latest industry trends and SEO keyword research in a remote, cross-functional team
 
-1. Symphony Communications
-2. Feb 2019 – Jan 2024
+Tools: Markdown, HTML, GitHub, Docusaurus, TechSmith Snagit
 
-### Manager, Developer Solutions
-* Led engineering team that delivers Symphony's suite of developer tools for building bots and integrations
-* Responsible for product roadmap, backlog grooming, delivery management and customer engagement
-* Bridged customer domains with technical requirements to ensure developer tools were fit-for-purpose
-* Delivered greenfield workflow studio product that facilitates non-developers in building workflows
-* Liaised with FINOS to maintain standards of open source project delivery and community contributions
+1. Founding Technical Writer at Marco Payroll
+2. Jun 2023 - Dec 2023
 
-### Developer Relations Technical Lead
-* Pioneering lead of team tasked to scale engagement and education of Symphony’s developer community
-* Subject matter expert on best practices for using developer tools to build solutions for markets use-cases
-* Built certification program from scratch, comprising course material, demos, videos, exams and badges
-* Developed and ran assets including a developer portal, training center, forum and documentation site
-* Organised global events like developer meetups, hackathons, webinars and Innovate conferences
+### Marco Payroll is a global workforce engagement start-up.
+* Led, planned, and authored SaaS product guides from scratch based on product tests and SME interviews
+* Leveraged latest industry standards to update and author API documentation and code samples, enhancing usability
+* Optimised content operations by creating reusable templates and a style guide, reducing turnaround time and enhancing brand consistency
+* Managed website development and content translation, coordinating a remote cross-functional team to deliver timely project deliverables
 
-1. GIC
-2. Jun 2016 – Feb 2019
+Tools: Markdown, Archbee, Swagger, WordPress, TechSmith Snagit
 
-### Engineering Lead, Enterprise Applications Technology
-* Led engineering on a new cross-asset CRM platform that pioneered use of cloud-native architecture
-* Responsible for scoping requirements, delivery, deployments, support and managing team of developers
-* Key developer on innovation award-winning platform for sharing investment ideas across asset classes
+1. Technical Writer Intern at ByteDance
+2. Sep 2022 - Mar 2023
 
-### Developer, Public Equities Analytics
-* Built Tableau dashboards visualising portfolio exposure, performance and facets for public equities teams
-* Led development of equities data mart, designing the structure and ETL workflows in Informatica
-* Optimised performance of dashboards through tuning of Oracle databases and batch automation
+### ByteDance is a global internet technology company with product offerings in social media and content creation.
+* Planned and authored product and developer guides for key BytePlus products (Recommend, Effects, Video Editor SDK, Audio SDK) using topic-based authoring
+* Collaborated with stakeholders in remote global product teams to obtain and review content, ensuring information accuracy and completeness
+* Led cross-cultural 4-member team to translate and publish Chinese/English technical writing blog, enhancing writing standards company-wide 
+* Contributed key standards to style guide and participated in peer reviews
 
-1. NatWest Markets
-2. Sep 2013 – Mar 2016
+Tools: Markdown, HTML, ReadMe, TechSmith Snagit
 
-### Support Analyst, Sales and Trading Analytics
-* Provided regional production support for the business intelligence suite used by sales and trading desks
-* Responsible for coverage mappings that ensure accurate distribution and reporting of sales income flows
-* Built data visualisation dashboards that enabled decision analysis for the APAC wind down programme
+1. Technical Writer Intern at Visa
+2. May - Aug 2021
 
-### Business Analyst, Market Risk Technology
-* Managed delivery of in-house market risk platform, liaising with risk managers and engineering
-* Mitigated impact to risk sensitivity and VaR metrics from upstream changes through tolerance analysis
-* Developed an interactive guide that highlights relationships of sensitivities used to risk manage products
+### Visa is a global digital payment and card company.
+* Wrote and edited technical content across 8 enterprise-level guides for message routing (V.I.P. System), dispute resolution (Visa Resolve Online), and internal UI (Finance) using topic-based authoring
+* Handled publishing, version control, single-sourcing in SDL Tridion and Oxygen
 
-### Developer, Operations Technology
-* Developed VBA-based tools for operations teams to enable reconciliation, clearing, reporting functions
-* Pioneered usage of Python to facilitate straight-through reconciliation of counterparty settlement data
+Tools: DITA XML, SDL Tridion Docs, Oxygen XML Editor, Jira
 
 # Education
-1. Singapore Management University
-2. Aug 2009 – Jul 2013
+1. National University of Singapore, University Scholars Program (USP)
+2. Aug 2018 - Dec 2022
 
-### BSc (Information Systems Management), summa cum laude
+### BA Hons in English Language (Linguistics)
+<br>
+Relevant coursework: Programming Methodology (C), Introduction to UX Design, Writing & Critical Thinking
 
-# Certifications
-Certified Kubernetes Application Developer, VMware Spring Professional 2021, Oracle Java Professional
+# Skills
+Technical: Git, GitHub, Markdown, HTML, JSON, OpenAPI specification, DITA, XML
+
+Tools: Microsoft Office, Google Suite, Lark, GA4, SemRush

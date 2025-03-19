@@ -4,7 +4,7 @@ Write your resume or CV in markdown and automatically generate a GitHub Pages si
 ### Local Previews
 1. [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 2. `bundle install`
-3. `bundle exec jekyll serve`
+3. `bundle exec jekyll servebundle exec jekyll serve`
 4. Visit `http://localhost:4000`
 
 ### GitHub Pages Setup
