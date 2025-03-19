@@ -9,6 +9,6 @@ Write your resume or CV in markdown and automatically generate a GitHub Pages si
 
 ### GitHub Pages Setup
 1. Fork this repository
-2. Edit `index.md` with your own details
+2. Edit `resume.md` with your own details
 3. Go to Settings > Code and automation > Pages
 4. In Build and deployment > Source, select Deploy from a branch
