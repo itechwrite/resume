@@ -68,4 +68,4 @@ Relevant coursework: Programming Methodology (C), Introduction to UX Design, Wri
 # Skills
 Technical: Git, GitHub, Markdown, HTML, JSON, OpenAPI specification, DITA, XML
 
-Tools: Microsoft Office, Google Suite, Lark, GA4, SemRush
+Tools: Microsoft Office, Google Suite, Lark, GA4, SemRush, Jira
